@@ -24,11 +24,11 @@ Este projeto consiste em um programa simples que classifica o nível de um heró
 
 1.  Certifique-se de ter o Python instalado em sua máquina.
 2.  Clone ou baixe o repositório do projeto.
-3.  Execute o arquivo principal (por exemplo, `main.py` ou `classificador_heroi.py`) através do terminal:
+3.  Execute o arquivo principal (por exemplo, `app.py`) através do terminal:
     ```bash
     python seu_arquivo_aqui.py
     ```
-4.  Siga as instruções no console para inserir o nome e a XP do herói.
+4.  Siga as instruções no console para inserir o nome quando a mensagem **"Nos informe seu nickname:"** for exibida, e a XP do herói quando a mensagem **"Nos informe seu xp:"** for exibida.
 
 ## Exemplo de Saída
 
